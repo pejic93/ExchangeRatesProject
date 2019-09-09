@@ -10,4 +10,5 @@ Example of JSON http body:
 --How to run the ExchangeRatesProject solution--
 
 1.Download project ExchangeRatesProject
+
 2.Open the project through Visual Studio and run it on ISS Express
