@@ -1,0 +1,14 @@
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\bin\Debug\netcoreapp2.1\ExchangeRatesProject.deps.json
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\bin\Debug\netcoreapp2.1\ExchangeRatesProject.runtimeconfig.json
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\bin\Debug\netcoreapp2.1\ExchangeRatesProject.runtimeconfig.dev.json
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\bin\Debug\netcoreapp2.1\ExchangeRatesProject.dll
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\bin\Debug\netcoreapp2.1\ExchangeRatesProject.pdb
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.csprojAssemblyReference.cache
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.csproj.CoreCompileInputs.cache
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.RazorAssemblyInfo.cache
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.RazorAssemblyInfo.cs
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.AssemblyInfoInputs.cache
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.AssemblyInfo.cs
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.RazorTargetAssemblyInfo.cache
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.dll
+C:\Users\milos\source\repos\ExchangeRatesProject\ExchangeRatesProject\obj\Debug\netcoreapp2.1\ExchangeRatesProject.pdb
