@@ -4,7 +4,7 @@ Exposed endpoint's URL: "https://localhost:xxxxx/api/test/get-rates"
 Endpoint takes parameters from http GET request body
 
 Example of JSON http body:
-{ BaseCurrency:"SEK", TargetCurr:"NOK", Dates:["2015-02-02", "2015-06-03", "2016-07-07"] }
+{ BaseCurrency:"SEK", TargetCurrency:"NOK", Dates:["2015-02-02", "2015-06-03", "2016-07-07"] }
 
 
 --How to run the ExchangeRatesProject solution--
